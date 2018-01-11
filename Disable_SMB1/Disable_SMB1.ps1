@@ -7,8 +7,8 @@
     The changes require a reboot to take effect.
     
     By: Todd Whorton
-        @onemilewide
-        www.onemilewide.com
+        @toddw1219
+        www.smbadmin.com
     On: 2017-05-15
 #>
 
